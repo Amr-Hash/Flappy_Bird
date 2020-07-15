@@ -1,2 +1,2 @@
 # Flappy_Bird
-GL based Flappy Bird Game
+OpenGL based Flappy Bird Game
